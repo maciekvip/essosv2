@@ -163,7 +163,7 @@
 /* PIERWSZY WRAPPER */
 .header::after {
   content: "";
-  background-image: url("../img/mainmobile.jpg");
+  background-image: url("mainmobile.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -287,7 +287,7 @@
 
 .printer::after {
   content: "";
-  background-image: url("../img/printerimage.png");
+  background-image: url("printerimage.png");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -302,7 +302,7 @@
 
 .printer:hover::after {
   content: "";
-  background-image: url("../img/printerimage.png");
+  background-image: url("printerimage.png");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -316,7 +316,7 @@
 
 .desk::after {
   content: "";
-  background-image: url("../img/artbiurowe.jpg");
+  background-image: url("artbiurowe.jpg");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -331,7 +331,7 @@
 
 .desk:hover::after {
   content: "";
-  background-image: url("../img/artbiurowe.jpg");
+  background-image: url("artbiurowe.jpg");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -345,7 +345,7 @@
 
 .clean-art::after {
   content: "";
-  background-image: url("../img/srodkiczystosci.jpg");
+  background-image: url("srodkiczystosci.jpg");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -360,7 +360,7 @@
 
 .clean-art:hover::after {
   content: "";
-  background-image: url("../img/srodkiczystosci.jpg");
+  background-image: url("srodkiczystosci.jpg");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -374,7 +374,7 @@
 
 .service::after {
   content: "";
-  background-image: url("../img/servicetools.jpg");
+  background-image: url("servicetools.jpg");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -389,7 +389,7 @@
 
 .service:hover::after {
   content: "";
-  background-image: url("../img/servicetools.jpg");
+  background-image: url("servicetools.jpg");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -403,7 +403,7 @@
 
 .purchase::after {
   content: "";
-  background-image: url("../img/handshakeimage.jpg");
+  background-image: url("handshakeimage.jpg");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -418,7 +418,7 @@
 
 .purchase:hover::after {
   content: "";
-  background-image: url("../img/handshakeimage.jpg");
+  background-image: url("handshakeimage.jpg");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -432,7 +432,7 @@
 
 .eksploation::after {
   content: "";
-  background-image: url("../img/gearimage.png");
+  background-image: url("gearimage.png");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -447,7 +447,7 @@
 
 .eksploation:hover::after {
   content: "";
-  background-image: url("../img/gearimage.png");
+  background-image: url("gearimage.png");
   background-size: cover;
   background-position: center;
   opacity: .3;
@@ -510,7 +510,7 @@
   }
 
   .header::after {
-    background-image: url("../img/main_background.jpg");
+    background-image: url("main_background.jpg");
   }
 
   .menu ul li a:hover {
